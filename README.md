@@ -10,7 +10,7 @@
 
 # Montage
 
-[SCHEMA](station-meteo_bb.jpg)
+![SCHEMA](station-meteo_bb.jpg)
 ---
 
 # Bibliothéques
